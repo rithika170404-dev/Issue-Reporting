@@ -1,0 +1,13 @@
+
+matchTitle: true
+matchBody: true
+caseSensitive: false
+
+labelMappings:
+  "login": "Authentication"
+  "password": "Authentication"
+  "api": "API Issue"
+  "error": "Bug"
+  "failed": "Bug"
+  "dashboard": "Frontend Issue"
+  "timeout": "Performance"
