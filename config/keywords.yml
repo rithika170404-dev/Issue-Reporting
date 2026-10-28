@@ -1,0 +1,35 @@
+
+labels:
+  Data Warehousing:
+    - data warehouse
+    - data warehousing
+    - etl
+    - data pipeline
+    - snowflake
+    - sql
+
+  Authentication:
+    - login
+    - password
+    - authentication
+
+  API Issue:
+    - api
+    - endpoint
+    - http 500
+
+  Bug:
+    - error
+    - failed
+    - crash
+    - exception
+
+  Frontend Issue:
+    - dashboard
+    - frontend
+    - ui
+
+  Performance:
+    - timeout
+    - slow
+    - performance
